@@ -29,7 +29,7 @@
 	},
 	"dependencies": {},
 	"peerDependencies": {
-		"@inlang/paraglide-js": "^2.0.0",
+		"@inlang/paraglide-js": "^2.0.0-beta.13",
 		"next": "^15"
 	},
 	"devDependencies": {
